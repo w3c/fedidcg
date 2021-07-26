@@ -1,5 +1,12 @@
 
-# Specification 'fedidcg'
+# Federated Identity Community Group
 
-This is the repository for fedidcg. You're welcome to contribute! Let's make the Web rock our socks
-off!
+The purpose of the Federated Identity Community Group is to provide a forum focused on incubating web features that will both support federated identity and prevent untransparent, uncontrollable tracking of users across the web. While the community group will take privacy concerns into consideration, these concerns will be balanced against the need to explore innovative ideas around federated authentication on the web. 
+
+Sign up is available at <https://www.w3.org/community/fed-id/>
+
+## Code of Conduct
+
+As a W3C Community Group, all work and communication within the Privacy
+CG is covered by the
+[W3C Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
