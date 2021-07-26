@@ -2,7 +2,7 @@
 Federated Identity Community Group Charter
 =========================================================================
 
--   This Charter: <https://github.com/w3c/fedidcg/blob/main/Federated%20Identity%20Community%20Group%20Charter.mdd>
+-   [This Charter](https://github.com/w3c/fedidcg/blob/main/Federated%20Identity%20Community%20Group%20Charter.md)
 -   Previous Charter: n/a
 -   Start Date: August 2021
 
