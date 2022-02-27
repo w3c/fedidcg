@@ -5,6 +5,8 @@ The purpose of the Federated Identity Community Group is to provide a forum focu
 
 Sign up is available at <https://www.w3.org/community/fed-id/>
 
+Work is happening in https://github.com/fedidcg
+
 ## Code of Conduct
 
 As a W3C Community Group, all work and communication within the Federated Identity
